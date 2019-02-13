@@ -1,0 +1,80 @@
+body
+{
+
+border-top-style:solid;
+border-right-style:dotted;
+border-bottom:solid;
+border-left:dotted;
+padding:25px 50px 75px 50px;
+background-image:url("/home/itsec3/Downloads/index.jpeg")
+
+}
+h1
+{
+color:red
+text-indent:1cm;
+text-align:center;
+word-spacing:3px;
+text-transform:capitalize;
+text-decoration:underline;
+}
+#one
+{
+display:block;
+background-color:yellow;
+font-size:20px;
+font-weight:bold;
+letter-spacing:2px;
+text-decoration:line-through;
+text-shadow:3px 3px 4px red;
+}
+#two
+{
+display:block;
+background-color:yellow;
+font-size:20px;
+font-weight:bold;
+letter-spacing:2px;
+text-decoration:line-through;
+text-shadow:3px 3px 4px red;
+}
+#three
+{
+display:block;
+background-color:yellow;
+font-size:20px;
+font-weight:bold;
+letter-spacing:2px;
+text-decoration:line-through;
+text-shadow:3px 3px 4px red;
+}
+img
+{
+border:5px solid red;height:150px;
+border:5px solid red;width:200px;
+border-color:red;
+}
+a:active
+
+{
+color:blue;
+}
+a
+{
+background-color:yellow;
+}
+a:hover {
+color:red;
+}
+a:visited
+{
+color:green;
+}
+
+
+
+
+
+
+
+
