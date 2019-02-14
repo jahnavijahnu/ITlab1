@@ -1,0 +1,47 @@
+p,h1
+{
+color:red;
+}
+
+h1
+{
+background-color:lightblue;
+margin:50px 25px 50px 25px;
+width:50%;
+}
+.colortext
+{
+color:green;
+}
+#para1
+{
+color:blue;
+border-left:10px solid green;
+border-right:10px solid green;
+border-bottom:10px solid green;
+border-top:10px solid green;
+}
+body
+{
+background-image:url("/home/itsec3/Downloads/index.jpeg");
+background-repeat:no-repeat;
+background-position:top right;
+background-color:linen;
+}
+p
+{
+padding:50px 50px 50px 50px;
+border-left:4px solid red;
+border-right:4px solid red;
+border-bottom:4px solid red;
+border-top:4px solid red;
+border-top-style:dotted;
+border-left-style:dotted;
+border-bottom-style:dotted;
+border-right-style:dotted;
+}
+div
+{
+width:200px;
+border:25px solid navy;
+}
